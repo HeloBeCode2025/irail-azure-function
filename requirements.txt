@@ -1,0 +1,8 @@
+# Azure Functions framework
+azure-functions
+
+# HTTP requests to iRail API
+requests
+
+# SQL Server connection (works without ODBC driver)
+pymssql

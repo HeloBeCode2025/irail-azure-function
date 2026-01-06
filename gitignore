@@ -1,0 +1,31 @@
+# Azure Functions
+local.settings.json
+.python_packages/
+.venv/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Secrets (never commit these!)
+*.pem
+*.key
+secrets.json
